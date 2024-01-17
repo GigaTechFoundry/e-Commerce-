@@ -230,6 +230,10 @@ a:hover {
     color: green;
 }
 
+.book__price {
+    text-align: center;
+}
+
 /*
 Highlights
             */
@@ -346,6 +350,7 @@ Highlights
 .book__title {
     font-size: 20px;
     margin-bottom: 8px;
+    text-align: center;
     
 }
 
@@ -357,12 +362,14 @@ Highlights
 .book__ratings {
     margin-bottom: 8px;
     color: #fabf2a;
+    text-align: center;
 }
 
 .book__price--normal{
     text-decoration: line-through;
     padding-right: 6px;
     color: #bfbfbf;
+    text-align: center;
 
 }
 
@@ -371,6 +378,7 @@ Highlights
                     */
 
 .book__price--recent {
+    
     color: black;
 }
 
